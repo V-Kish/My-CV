@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="546295bf-5218-41dc-8605-07a96cd5c505" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CV_Kish" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OpVG2XxW06TR1JRVmwunKQKU7t" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vasja\Desktop\CV_Kish\fonts\HelveticaLight" />
+      <recent name="C:\Users\vasja\Desktop\CV_Kish\fonts\HelveticaItalic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" editBeforeRun="true" nameIsGenerated="true" uri="http://localhost:63342/CV_Kish/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546295bf-5218-41dc-8605-07a96cd5c505" name="Default" comment="" />
+      <created>1492019501596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492019501596</updated>
+      <workItem from="1492019502825" duration="20000" />
+      <workItem from="1492177186222" duration="58000" />
+      <workItem from="1492179810456" duration="5300000" />
+      <workItem from="1492186410547" duration="150000" />
+      <workItem from="1492186807988" duration="124000" />
+      <workItem from="1492187335336" duration="1369000" />
+      <workItem from="1492191634364" duration="849000" />
+      <workItem from="1492192630070" duration="43000" />
+      <workItem from="1492192949814" duration="147000" />
+      <workItem from="1492193213291" duration="2812000" />
+      <workItem from="1492197064414" duration="959000" />
+      <workItem from="1492519247694" duration="770000" />
+      <workItem from="1492520308244" duration="2030000" />
+      <workItem from="1492522779982" duration="316000" />
+      <workItem from="1492523111166" duration="1568000" />
+      <workItem from="1492549044885" duration="16000" />
+      <workItem from="1492615443966" duration="673000" />
+      <workItem from="1492617103731" duration="67000" />
+      <workItem from="1492710374283" duration="11918000" />
+      <workItem from="1492815704093" duration="2033000" />
+      <workItem from="1492823664030" duration="3000" />
+      <workItem from="1492870585482" duration="608000" />
+      <workItem from="1492878778151" duration="4000" />
+      <workItem from="1492956452407" duration="91000" />
+      <workItem from="1492962984170" duration="9859000" />
+      <workItem from="1492979428789" duration="56000" />
+      <workItem from="1492979514160" duration="39000" />
+      <workItem from="1493060286650" duration="21000" />
+      <workItem from="1493112412904" duration="186000" />
+      <workItem from="1493112618148" duration="258000" />
+      <workItem from="1493112887597" duration="19000" />
+      <workItem from="1493113544103" duration="24000" />
+      <workItem from="1493115351846" duration="62000" />
+      <workItem from="1493215292657" duration="10061000" />
+      <workItem from="1493225675826" duration="148000" />
+      <workItem from="1493235307419" duration="10000" />
+      <workItem from="1493323616656" duration="4000" />
+      <workItem from="1493329255622" duration="3000" />
+      <workItem from="1493401776277" duration="4000" />
+      <workItem from="1493566092401" duration="12000" />
+      <workItem from="1494003599064" duration="12000" />
+      <workItem from="1494071699682" duration="499000" />
+      <workItem from="1495281301915" duration="27000" />
+      <workItem from="1495281819618" duration="2110000" />
+      <workItem from="1495285093530" duration="81000" />
+      <workItem from="1495285186691" duration="1717000" />
+      <workItem from="1495286950698" duration="25000" />
+      <workItem from="1495287010091" duration="10000" />
+      <workItem from="1495287163383" duration="142000" />
+      <workItem from="1495287366450" duration="56000" />
+      <workItem from="1495556986756" duration="409000" />
+      <workItem from="1495557437068" duration="841000" />
+      <workItem from="1495559441873" duration="66000" />
+      <workItem from="1495560890434" duration="864000" />
+      <workItem from="1495568121071" duration="53000" />
+      <workItem from="1495754873877" duration="85000" />
+      <workItem from="1495808277844" duration="15000" />
+      <workItem from="1495808820671" duration="83000" />
+      <workItem from="1495808919832" duration="2063000" />
+      <workItem from="1495811158995" duration="287000" />
+      <workItem from="1495821153560" duration="91000" />
+      <workItem from="1495833053627" duration="71000" />
+      <workItem from="1495888282758" duration="100000" />
+      <workItem from="1495924022356" duration="48000" />
+      <workItem from="1497035998001" duration="614000" />
+      <workItem from="1497454499143" duration="61000" />
+      <workItem from="1498676923614" duration="4152000" />
+      <workItem from="1498690347609" duration="4152000" />
+      <workItem from="1498696699303" duration="83000" />
+      <workItem from="1498696956126" duration="1561000" />
+      <workItem from="1498698698194" duration="1235000" />
+      <workItem from="1498700823718" duration="1060000" />
+      <workItem from="1498729480893" duration="462000" />
+      <workItem from="1498744511857" duration="1220000" />
+      <workItem from="1499209353576" duration="7000" />
+      <workItem from="1499288884660" duration="20000" />
+      <workItem from="1499291015917" duration="599000" />
+      <workItem from="1499451708847" duration="1995000" />
+      <workItem from="1499525051432" duration="128000" />
+      <workItem from="1499721019871" duration="123000" />
+      <workItem from="1499721944854" duration="88000" />
+      <workItem from="1500389430723" duration="762000" />
+      <workItem from="1564674430569" duration="1470000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
